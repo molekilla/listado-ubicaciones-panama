@@ -1,0 +1,647 @@
+id,name,district_id
+1,Bocas del Toro (Cabecera),1
+2,Bastimentos,1
+3,Cauchero,1
+4,"Punta Laurel ",1
+5,Tierra Oscura,1
+6,Changuinola (Cabecera),2
+7,Almirante,2
+8,Guabito,2
+9,Teribe,2
+10,Valle del Risco,2
+11,El Empalme,2
+12,Las Tablas,2
+13,Cochigró,2
+14,La Gloria,2
+15,Las Delicias.,2
+16,Nance del Risco,2
+17,Valle de Agua Arriba,2
+18,Chiriquí Grande (Cabecera),3
+19,Miramar,3
+20,Punta Peña,3
+21,Punta Robalo,3
+22,Rambala,3
+23,Bajo Cedro,3
+24,Aguadulce (Cabecera),4
+25,El Cristo,4
+26,El Roble,4
+27,Pocrí,4
+28,Barrios Unidos,4
+29,Antón (Cabecera),5
+30,Cabuya,5
+31,El Chirú,5
+32,El Retiro,5
+33,El Valle,5
+34,Juan Díaz,5
+35,Río Hato,5
+36,San Juan de Dios,5
+37,Santa Rita,5
+38,Caballero,5
+39,La Pintada (Cabecera),6
+40,El Harino,6
+41,El Potrero,6
+42,Llano Grande,6
+43,Piedras Gordas,6
+44,Las Lomas,6
+45,Llano Norte,6
+46,Natá (Cabecera),7
+47,Capellanía,7
+48,El Caño,7
+49,Guzmán,7
+50,Las Huacas,7
+51,Toza,7
+52,Olá (Cabecera),8
+53,El Copé,8
+54,El Palmar,8
+55,El Picacho,8
+56,La Pava,8
+57,Penonomé (Cabecera),9
+58,Cañaveral,9
+59,Coclé,9
+60,Chiguirí Arriba,9
+61,El Coco,9
+62,Pajona,9
+63,Río Grande,9
+64,Río Indio,9
+65,Toabré,9
+66,Tulú,9
+67,Barrio Norte,10
+68,Barrio Sur,10
+69,Buena Vista,10
+70,Cativá,10
+71,Ciricito,10
+72,Cristóbal,10
+73,Escobal,10
+74,Limón,10
+75,Nueva Providencia,10
+76,Puerto Pilón,10
+77,Sabanitas,10
+78,Salamanca,10
+79,San Juan,10
+80,Santa Rosa,10
+81,Nuevo Chagres (Cabecera),11
+82,Achiote,11
+83,El Guabo,11
+84,La Encantada,11
+85,Palmas Bellas.,11
+86,Piña,11
+87,Salud,11
+88,Miguel de la Borda (Cabecera),12
+89,Coclé del Norte,12
+90,El Guásimo,12
+91,Gobea,12
+92,Río Indio,12
+93,San José del General,12
+94,Portobelo (Cabecera),13
+95,Cacique,13
+96,Puerto Lindo o Garrote,13
+97,Isla Grande,13
+98,María Chiquita,13
+99,Palenque (Cabecera),14
+100,Cuango,14
+101,Miramar,14
+102,Nombre de Dios,14
+103,Palmira,14
+104,Playa Chiquita,14
+105,Santa Isabel,14
+106,Viento Frío,14
+107,Alanje (Cabecera),15
+108,Divalá,15
+109,El Tejar,15
+110,Guarumal,15
+111,Palo Grande,15
+112,Querévalo,15
+113,Santo Tomás,15
+114,Canta Gallo,15
+115,Nuevo México,15
+116,Puerto Armuelles (Cabecera,16
+117,Limones,16
+118,Progreso,16
+119,Baco,16
+120,Rodolfo Aguilar Delgado,16
+121,Boquerón (Cabecera),17
+122,Bágala,17
+123,Cordillera,17
+124,Guabal,17
+125,Guayabal,17
+126,Paraíso,17
+127,Pedregal,17
+128,Tijeras,17
+129,Bajo Boquete (Cabecera),18
+130,Caldera,18
+131,Palmira,18
+132,Alto Boquete,18
+133,Jaramillo,18
+134,Los Naranjos,18
+135,La Concepción (Cabecera),19
+136,Aserrío de Gariché,19
+137,Bugaba,19
+138,Cerro Punta,19
+139,Gómez,19
+140,La Estrella,19
+141,San Andrés,19
+142,Santa Marta,19
+143,Santa Rosa,19
+144,Santo Domingo,19
+145,Sortová,19
+146,Volcán,19
+147,El Bongo,19
+148,David (Cabecera,20
+149,Bijagual,20
+150,Cochea,20
+151,Chiriquí,20
+152,Guacá,20
+153,Las Lomas,20
+154,Pedrega,20
+155,San Carlos,20
+156,San Pablo Nuevo,20
+157,San Pablo Viejo,20
+158,Dolega (Cabecera),21
+159,Dos Ríos,21
+160,Los Anastacios,21
+161,Potrerillos,21
+162,Potrerillos Abajo,21
+163,Rovira,21
+164,Tinajas,21
+165,Los Algarrobos,21
+166,Gualaca (Cabecera),22
+167,Hornito,22
+168,Los Ángeles,22
+169,Paja de Sombrero,22
+170,Rincón,22
+171,Remedios (Cabecera),23
+172,El Nancito,23
+173,El Porvenir,23
+174,El Puerto,23
+175,Santa Lucía,23
+176,Río Sereno (Cabecera,24
+177,Breñón,24
+178,Cañas Gordas,24
+179,Monte Lirio,24
+180,Plaza Caisán,24
+181,Santa Cruz,24
+182,Dominical,24
+183,Santa Clara,24
+184,Las Lajas (Cabecera),25
+185,Juay,25
+186,Lajas Adentro,25
+187,San Félix,25
+188,Santa Cruz,25
+189,Horconcitos (Cabecera),26
+190,Boca Chica,26
+191,Boca del Monte,26
+192,San Juan,26
+193,San Lorenzo,26
+194,Tolé (Cabecera),27
+195,Bella Vista,27
+196,Cerro Viejo,27
+197,El Cristo,27
+198,Justo Fidel,27
+199,Lajas de Tolé,27
+200,Potrero de Caña,27
+201,Quebrada de Piedra,27
+202,Veladero,27
+203,La Palma (Cabecera),28
+204,Camoganti,28
+205,Chepigana,28
+206,Garachiné,28
+207,Jaqué,28
+208,Puerto Piña,28
+209,Río Congo,28
+210,Río Iglesias,28
+211,Sambú,28
+212,Setegantí,28
+213,Taimatí,28
+214,Tucutí,28
+215," Agua Fría",28
+216,Cucunatí,28
+217,Río Congo Arriba,28
+218,Santa Fe,28
+219,Pinogana,28
+220,Boca de Cupé,29
+221,Paya,29
+222,Pinogana,29
+223,Púcuro,29
+224,Yape,29
+225,Yaviza,29
+226,Metetí,29
+227,Comarca Kuna de Wargandí,29
+228,Chitré (Cabecera),30
+229,La Arena,30
+230,Monagrillo,30
+231,Llano Bonito,30
+232,San Juan Bautista,30
+233,Las Minas (Cabecera),31
+234,Chepo,31
+235,Chumical,31
+236,El Toro,31
+237,Leones,31
+238,Quebrada del Rosario,31
+239,Quebrada El Ciprián,31
+240,Los Pozos (Cabecera),32
+241,Capurí,32
+242,El Calabacito,32
+243,El Cedro,32
+244,La Arena,32
+245,La Pitaloza,32
+246,Los Cerritos,32
+247,Los Cerros de Paja,32
+248,Las Llanas,32
+249,Ocú (Cabecera),33
+250,Cerro Largo,33
+251,Los Llanos,33
+252,Llano Grande,33
+253,Peñas Chatas,33
+254,El Tijera,33
+255,Menchaca,33
+256,Entradero del Castillo,33
+257,Parita (Cabecera),34
+258,Cabuya,34
+259,Los Castillos,34
+260,Llano de la Cruz.,34
+261,París,34
+262,Portobelillo,34
+263,Potuga,34
+264,Pesé (Cabecera),35
+265,Las Cabras,35
+266,El Pájaro,35
+267,El Barrero,35
+268,El Pedregoso,35
+269,El Ciruelo,35
+270,Sabanagrande,35
+271,Rincón Hondo,35
+272,Santa María (Cabecera),36
+273,Chupampa,36
+274,El Rincón,36
+275,El Limón,36
+276,Los Canelos,36
+277,Guararé (Cabecera),37
+278,El Espinal,37
+279,El Macano,37
+280,Guararé Arriba,37
+281,La Enea,37
+282,La Pasera,37
+283,Las Trancas,37
+284,Llano Abajo,37
+285,El Hato,37
+286,Perales,37
+287,Las Tablas (Cabecera),38
+288,Bajo Corral,38
+289,Bayano,38
+290,El Carate,38
+291,El Cocal,38
+292,El Manantial,38
+293,El Muñoz,38
+294,El Pedregoso,38
+295,La Laja,38
+296,La Miel,38
+297,La Palma,38
+298,La Tiza,38
+299,Las Palmitas,38
+300,Las Tablas Abajo,38
+301,Nuario,38
+302,Palmira,38
+303,Peña,38
+304,Río Hondo,38
+305,San José,38
+306,San Miguel,38
+307,Santo Domingo,38
+308,Sesteadero,38
+309,Valle Rico,38
+310,Vallerriquito,38
+311,La Villa de Los Santos (Cabecera),39
+312,El Guásimo,39
+313,La Colorada,39
+314,La Espigadilla,39
+315,Las Cruces,39
+316,Las Guabas,39
+317,Los Ángeles,39
+318,Los Olivos,39
+319,Llano Largo,39
+320,Sabanagrande,39
+321,Santa Ana,39
+322,Tres Quebradas,39
+323,Agua Buena,39
+324,Villa Lourdes,39
+325,Macaracas (Cabecera),40
+326,Bahía Honda,40
+327,Bajos de Güera,40
+328,Corozal,40
+329,Chupá.,40
+330,El Cedro,40
+331,Espino Amarillo,40
+332,La Mesa,40
+333,Las Palmas,40
+334,Llano de Piedra,40
+335,Mogollón,40
+336,Pedasí (Cabecera),41
+337,Los Asientos,41
+338,Mariabé,41
+339,Purio,41
+340,Oria Arriba,41
+341,Pocrí (Cabecera),42
+342,El Cañafístulo,42
+343,Lajamina,42
+344,Paraíso,42
+345,Paritilla,42
+346,Tonosí (Cabecera),43
+347,Altos de Güera,43
+348,Cañas,43
+349,El Bebedero,43
+350,El Cacao,43
+351,El Cortezo,43
+352,Flores,43
+353,Guánico,43
+354,La Tronosa,43
+355,Cambutal,43
+356,Isla de Cañas,43
+357,San Miguel (Cabecera),44
+358,La Ensenada,44
+359,La Esmeralda,44
+360,La Guinea,44
+361,Pedro González,44
+362,Saboga,44
+363,Chepo (Cabecera),45
+364,Cañita,45
+365,Chepillo,45
+366,El Llano,45
+367,Las Margaritas,45
+368,Santa Cruz de Chinina,45
+369,Comarca Kuna de Madungandí,45
+370,Tortí,45
+371,Chimán (Cabecera),46
+372,Brujas,46
+373,Gonzalo Vásquez,46
+374,Pásiga,46
+375,Unión Santeña,46
+376,San Felipe,47
+377,El Chorrillo,47
+378,Santa Ana,47
+379,La Exposición o Calidonia,47
+380,Curundú,47
+381,Betania,47
+382,Bella Vista,47
+383,Pueblo Nuevo,47
+384,San Francisco,47
+385,Parque Lefevre.,47
+386,Río Abajo,47
+387,Juan Díaz,47
+388,Pedregal,47
+389,Ancón,47
+390,Chilibre,47
+391,Las Cumbres,47
+392,Pacora,47
+393,San Martín,47
+394,Tocumen,47
+395,Las Mañanitas,47
+396,24 de Diciembre,47
+397,Alcalde Díaz,47
+398,Ernesto Córdoba Campos,47
+399,Amelia Denis de Icaza.,48
+400,Belisario Porras,48
+401,José Domingo Espinar,48
+402,Mateo Iturralde,48
+403,Victoriano Lorenzo,48
+404,Arnulfo Arias,48
+405,Belisario Frías,48
+406,Omar Torrijos,48
+407,Rufina Alfaro,48
+408,Taboga (Cabecera),49
+409,Otoque Occidente,49
+410,Otoque Oriente,49
+411,Atalaya (Cabecera),50
+412,El Barrito,50
+413,La Montañuela,50
+414,La Carrillo,50
+415,San Antonio,50
+416,Calobre (Cabecera),51
+417,Barnizal,51
+418,Chitra,51
+419,El Cocla,51
+420,El Potrero,51
+421,La Laguna,51
+422,La Raya de Calobre,51
+423,La Tetilla,51
+424,La Yeguada,51
+425,Las Guías,51
+426,Monjarás,51
+427,San José,51
+428,Cañazas (Cabecera),52
+429,Cerro Plata,52
+430,El Picador,52
+431,Los Valles,52
+432,San José,52
+433,San Marcelo,52
+434,El Aromillo,52
+435,Las Cruces,52
+436,La Mesa (Cabecera),53
+437,Bisvalles,53
+438,Boró,53
+439,Llano Grande,53
+440,San Bartolo,53
+441,Los Milagros,53
+442,El Higo,53
+443,Las Palmas (Cabecera),54
+444,Cerro de Casa,54
+445,Corozal,54
+446,El María,54
+447,El Prado,54
+448,El Rincón,54
+449,Lolá,54
+450,Pixvae,54
+451,Puerto Vidal,54
+452,San Martín de Porres,54
+453,Viguí,54
+454,Zapotillo,54
+455,Manuel E. Amador Terrero,54
+456,Montijo (Cabecera),55
+457,Gobernadora,55
+458,La Garceana,55
+459,Leones,55
+460,Pilón,55
+461,Cébaco,55
+462,Costa Hermosa,55
+463,Unión del Norte,55
+464,Río de Jesús (Cabecera),56
+465,Las Huacas,56
+466,Los Castillos,56
+467,Utira,56
+468,Catorce de Noviembre,56
+469,San Francisco (Cabecera),57
+470,Corral Falso,57
+471,Los Hatillos,57
+472,Remance,57
+473,San Juan,57
+474,San José,57
+475,Santa Fe (Cabecera),58
+476,Calovébora,58
+477,El Alto,58
+478,El Cuay,58
+479,El Pantano,58
+480,Gatú o Gatucito,58
+481,Río Luis,58
+482,Rubén Cantú,58
+483,Santiago (Cabecera),59
+484,La Colorada,59
+485,La Peña,59
+486,La Raya de Santa María,59
+487,Ponuga,59
+488,San Pedro del Espino,59
+489,Canto del Llano,59
+490,Los Algarrobos,59
+491,Carlos Santana Ávila,59
+492,Edwin Fábrega,59
+493,San Martín de Porres,59
+494,Urracá,59
+495,Soná (Cabecera),60
+496,Bahía Honda,60
+497,Calidonia,60
+498,Cativé,60
+499,El Marañón,60
+500,Guarumal,60
+501,La Soledad,60
+502,Quebrada de Oro,60
+503,Río Grande,60
+504,Rodeo Viejo,60
+505,Hicaco,60
+506,Llano de Catival o Mariato (Cabecera),61
+507,Arenas,61
+508,El Cacao,61
+509,Quebro,61
+510,Tebario,61
+511,Narganá (Cabecera),62
+512,Ailigandí,62
+513,Puerto Obaldía,62
+514,Tubualá,62
+515,Cirilo Guainora (Cabecera),63
+516,Lajas Blancas,63
+517,Manuel Ortega,63
+518,Río Sábalo,64
+519,Jingurudó,64
+520,Soloy (Cabecera),65
+521,Boca de Balsa,65
+522,Camarón Arriba,65
+523,Cerro Banco,65
+524,Cerro de Patena,65
+525,Emplanada de Chorcha,65
+526,Nämnoni,65
+527,Niba,65
+528,Hato Pilón (Cabecera),66
+529,Cascabel,66
+530,Hato Corotú,66
+531,Hato Culantro,66
+532,Hato Jobo,66
+533,Hato Julí,66
+534,Quebrada de Loro,66
+535,Salto Dupí,66
+536,Chichica (Cabecera),67
+537,Alto Caballero,67
+538,Bakama,67
+539,Cerro Caña,67
+540,Cerro Puerco,67
+541,Krüa,67
+542,Maraca,67
+543,Nibra,67
+544,Peña Blanca,67
+545,Roka,67
+546,Sitio Prado,67
+547,Ümani,67
+548,Cerro Iglesias (Cabecera),68
+549,Hato Chamí,68
+550,Jädaberi,68
+551,Lajero,68
+552,Susama,68
+553,Buenos Aires (Cabecera),69
+554,Agua de Salud,69
+555,Alto de Jesús,69
+556,Cerro Pelado,69
+557,El Bale,69
+558,El Paredón,69
+559,El Piro,69
+560,Guayabito,69
+561,Güibale,69
+562,El Peñon,69
+563,El Piro No. 2 (Muakwata Kubu),69
+564,Bisira (Cabecera),70
+565,Cantalante,70
+566,Guoroni,70
+567,Kankintú,70
+568,Mününi,70
+569,Piedra Roja,70
+570,Tolote,70
+571,Kusapín (Cabecera),71
+572,Bahía Azul,71
+573,Calovébora o Santa Catalina,71
+574,Loma Yuca,71
+575,Río Chiriquí,71
+576,Tobobe,71
+577,Valle Bonito,71
+578,Samboa (Cabecera),72
+579,Büri,72
+580,Guariviara,72
+581,Man Creek,72
+582,Tuwai,72
+583,Santa Catalina o Calovébora (Bladeshia) (Cabecera),73
+584,Alto Bilingüe (Gdogüeshia),73
+585,Loma Yuca (Ljuicho),73
+586,San Pedrito (Jiküi),73
+587,Valle Bonito (Dogata),73
+588,Arraiján (Cabecera),74
+589,Juan Demóstenes Arosemena,74
+590,Nuevo Emperador,74
+591,Santa Clara,74
+592,Veracruz,74
+593,Vista Alegre,74
+594,Burunga,74
+595,Cerro Silvestre,74
+596,Capira (Cabecera),75
+597,Caimito,75
+598,Campana,75
+599,Cermeño,75
+600,Cirí de los Sotos,75
+601,Cirí Grande,75
+602,El Cacao,75
+603,La Trinidad,75
+604,Las Ollas Arriba,75
+605,Lídice,75
+606,Villa Carmen,75
+607,Villa Rosario,75
+608,Santa Rosa,75
+609,Chame (Cabecera),76
+610,Bejuco,76
+611,Buenos Aires,76
+612,Cabuya,76
+613,Chicá,76
+614,El Líbano,76
+615,Las Lajas,76
+616,Nueva Gorgona,76
+617,Punta Chame,76
+618,Sajalices,76
+619,Sorá,76
+620,Barrio Balboa,77
+621,Barrio Colón,77
+622,Amador,77
+623,Arosemena,77
+624,El Arado,77
+625,El Coco,77
+626,Feuillet,77
+627,Guadalupe,77
+628,Herrera,77
+629,Hurtado,77
+630,Iturralde,77
+631,La Represa,77
+632,Los Díaz,77
+633,Mendoza,77
+634,Obaldía,77
+635,Playa Leona,77
+636,Puerto Caimito,77
+637,Santa Rita,77
+638,San Carlos (Cabecera),78
+639,El Espino,78
+640,El Higo,78
+641,Guayabito,78
+642,La Ermita,78
+643,La Laguna,78
+644,Las Uvas,78
+645,Los Llanitos,78
+646,San José,78

@@ -1,0 +1,629 @@
+cod_geo_id,parent_cod_geo_id,nivel,descripcion
+01,NULL,1,Bocas del Toro
+0101,01,2,Bocas del Toro
+010101,0101,3,Bocas del Toro (Cabecera)
+010102,0101,3,Bastimentos
+010103,0101,3,Cauchero
+010104,0101,3,Punta Laurel
+010105,0101,3,Tierra Oscura
+0102,01,2,Changuinola
+010201,0102,3,Changuinola (Cabecera)
+010202,0102,3,Almirante
+010203,0102,3,Guabito
+010204,0102,3,Teribe
+010205,0102,3,Valle del Risco
+010206,0102,3,El Empalme
+010207,0102,3,Las Tablas
+0103,01,2,Chiriquí Grande
+010301,0103,3,Chiriquí Grande (Cabecera)
+010302,0103,3,Miramar
+010303,0103,3,Punta Peña
+010304,0103,3,Punta Robalo
+010305,0103,3,Rambala
+02,NULL,1,Coclé
+0201,02,2,Aguadulce
+020101,0201,3,Aguadulce (Cabecera)
+020102,0201,3,El Cristo
+020103,0201,3,El Roble
+020104,0201,3,Pocrí
+020105,0201,3,Barrios Unidos
+0202,02,2,Antón
+020201,0202,3,Antón (Cabecera)
+020202,0202,3,Cabuya
+020203,0202,3,El Chirú
+020204,0202,3,El Retiro
+020205,0202,3,El Valle
+020206,0202,3,Juan Díaz
+020207,0202,3,Río Hato
+020208,0202,3,San Juan de Dios
+020209,0202,3,Santa Rita
+020210,0202,3,Caballero
+0203,02,2,La Pintada
+020301,0203,3,La Pintada (Cabecera)
+020302,0203,3,El Harino
+020303,0203,3,El Potrero
+020304,0203,3,Llano Grande
+020305,0203,3,Piedras Gordas
+020306,0203,3,Las Lomas
+0204,02,2,Natá
+020401,0204,3,Natá (Cabecera)
+020402,0204,3,Capellanía
+020403,0204,3,El Caño
+020404,0204,3,Guzmán
+020405,0204,3,Las Huacas
+020406,0204,3,Toza
+0205,02,2,Olá
+020501,0205,3,Olá (Cabecera)
+020502,0205,3,El Copé
+020503,0205,3,El Palmar
+020504,0205,3,El Picacho
+020505,0205,3,La Pava
+0206,02,2,Penonomé
+020601,0206,3,Penonomé (Cabecera)
+020602,0206,3,Cañaveral
+020603,0206,3,Coclé
+020604,0206,3,Chiguiri Arriba
+020605,0206,3,El Coco
+020606,0206,3,Pajonal
+020607,0206,3,Río Grande
+020608,0206,3,Río Indio
+020609,0206,3,Toabré
+020610,0206,3,Tulú
+03,NULL,1,Colón
+0301,03,2,Colón
+030101,0301,3,Barrio Norte
+030102,0301,3,Barrio Sur
+030103,0301,3,Buena Vista
+030104,0301,3,Cativá
+030105,0301,3,Ciricito
+030106,0301,3,Cristóbal
+030107,0301,3,Escobal
+030108,0301,3,Limón
+030109,0301,3,Nueva Providencia
+030110,0301,3,Puerto Pilón
+030111,0301,3,Sabanitas
+030112,0301,3,Salamanca
+030113,0301,3,San Juan
+030114,0301,3,Santa Rosa
+0302,03,2,Chagres
+030201,0302,3,Nuevo Chagres (Cabecera)
+030202,0302,3,Achiote
+030203,0302,3,El Guabo
+030204,0302,3,La Encantada
+030205,0302,3,Palma Bellas
+030206,0302,3,Piña
+030207,0302,3,Salud
+0303,03,2,Donoso
+030301,0303,3,Miguel de la Borda
+030302,0303,3,Coclé del Norte
+030303,0303,3,El Guácimo
+030304,0303,3,Gobea
+030305,0303,3,Río Indio
+030306,0303,3,San José del General
+0304,03,2,Portobelo
+030401,0304,3,Portobelo (Cabecera)
+030402,0304,3,Cacique
+030403,0304,3,Garrote
+030404,0304,3,Isla Grande
+030405,0304,3,María Chiquita
+0305,03,2,Santa Isabel
+030501,0305,3,Palenque
+030502,0305,3,Cuango
+030503,0305,3,Miramar
+030504,0305,3,Nombre de Dios
+030505,0305,3,Palmira
+030506,0305,3,Playa Chiquita
+030507,0305,3,Santa Isabel
+030508,0305,3,Viento Frío
+04,NULL,1,Chiriquí
+0401,04,2,Alanje
+040101,0401,3,Alanje (Cabecera)
+040102,0401,3,Divalá
+040103,0401,3,Tejar
+040104,0401,3,Guarumal
+040105,0401,3,Palo Grande
+040106,0401,3,Querévalo
+040107,0401,3,Santo Tomás
+040108,0401,3,Canto Gallo
+040109,0401,3,Nuevo México
+0402,04,2,Barú
+040201,0402,3,Puerto Armuelles
+040202,0402,3,Baco
+040203,0402,3,Limones
+040204,0402,3,Progreso
+040205,0402,3,Rodolfo Aguilar Delgado
+0403,04,2,Boquerón
+040301,0403,3,Boquerón (Cabecera)
+040302,0403,3,Bagalá
+040303,0403,3,Cordillera
+040304,0403,3,Guabal
+040305,0403,3,Guayabal
+040306,0403,3,Paraíso
+040307,0403,3,Pedregal
+040308,0403,3,Tijeras
+0404,04,2,Boquete
+040401,0404,3,Bajo Boquete (Cabecera)
+040402,0404,3,Caldera
+040403,0404,3,Palmira
+040404,0404,3,Alto Boquete
+040405,0404,3,Jaramillo
+040406,0404,3,Los Naranjos
+0405,04,2,Bugaba
+040501,0405,3,La Concepción (Cabecera)
+040502,0405,3,Aserrío de Gariché
+040503,0405,3,Bugaba
+040504,0405,3,Cerro Punta
+040505,0405,3,Gómez
+040506,0405,3,La Estrella
+040507,0405,3,San Andrés
+040508,0405,3,Santa Marta
+040509,0405,3,Santa Rosa
+040510,0405,3,Santo Domingo
+040511,0405,3,Sortová
+040512,0405,3,Volcán
+040513,0405,3,El Bongo
+0406,04,2,David
+040601,0406,3,David (Cabecera)
+040602,0406,3,Bijagual
+040603,0406,3,Cochea
+040604,0406,3,Chiriquí
+040605,0406,3,Guacá
+040606,0406,3,Las Lomas
+040607,0406,3,Pedregal
+040608,0406,3,San Carlos
+040609,0406,3,San Pablo Nuevo
+040610,0406,3,San Pablo Viejo
+0407,04,2,Dolega
+040701,0407,3,Dolega (Cabecera)
+040702,0407,3,Dos Ríos
+040703,0407,3,Los Anastacios
+040704,0407,3,Potrerillo Arriba
+040705,0407,3,Potrerillo Abajo
+040706,0407,3,Rovira
+040707,0407,3,Tinajas
+040708,0407,3,Los Algarrobos
+0408,04,2,Gualaca
+040801,0408,3,Gualaca (Cabecera)
+040802,0408,3,Hornito
+040803,0408,3,Los Ángeles
+040804,0408,3,Paja de Sombrero
+040805,0408,3,Rincón
+0409,04,2,Remedios
+040901,0409,3,Remedios (Cabecera)
+040902,0409,3,El Nancito
+040903,0409,3,El Porvenir
+040904,0409,3,El Puerto
+040905,0409,3,Santa Lucía
+0410,04,2,Renacimiento
+041001,0410,3,Río Sereno (Cabecera)
+041002,0410,3,Breñón
+041003,0410,3,Cañas Gordas
+041004,0410,3,Monte Lirio
+041005,0410,3,Plaza Caizán
+041006,0410,3,Santa Cruz
+041007,0410,3,Santa Clara
+041008,0410,3,Dominical
+0411,04,2,San Félix
+041101,0411,3,Las Lajas (Cabecera)
+041102,0411,3,Juay
+041103,0411,3,San Félix
+041104,0411,3,Lajas Adentro
+041105,0411,3,Santa Cruz
+0412,04,2,San Lorenzo
+041201,0412,3,Horconcitos (Cabecera)
+041202,0412,3,Boca Chica
+041203,0412,3,Boca del Norte
+041204,0412,3,San Juan
+041205,0412,3,San Lorenzo
+0413,04,2,Tole
+041301,0413,3,Tolé (Cabecera)
+041302,0413,3,Bella Vista
+041303,0413,3,Cerro Viejo
+041304,0413,3,El Cristo
+041305,0413,3,Justo Fidel Palacios
+041306,0413,3,Lajas de Tolé
+041307,0413,3,Potrero de Caña
+041308,0413,3,Quebrada de Piedra
+041309,0413,3,Veladero
+05,NULL,1,Darién
+0501,05,2,Chepigana
+050101,0501,3,La Palma (Cabecera)
+050102,0501,3,Camoganti
+050103,0501,3,Chepigana
+050104,0501,3,Garachiné
+050105,0501,3,Jaqué
+050106,0501,3,Puerto Piña
+050107,0501,3,Río Congo
+050108,0501,3,Río Iglesias
+050109,0501,3,Sambú
+050110,0501,3,Setegantí
+050111,0501,3,Taimatí
+050112,0501,3,Tucutí
+050113,0501,3,Agua Fría
+050114,0501,3,Cucunatí
+050115,0501,3,Río Congo Arriba
+050116,0501,3,Santa Fe
+0502,05,2,Pinogana
+050201,0502,3,El Real (Cabecera)
+050202,0502,3,Boca de Cupe
+050203,0502,3,Paya
+050204,0502,3,Pinogana
+050205,0502,3,Púcuro
+050206,0502,3,Yape
+050207,0502,3,Yaviza
+050208,0502,3,Metetí
+06,NULL,1,Herrera
+0601,06,2,Chitré
+060101,0601,3,Chitré
+060102,0601,3,La Arena
+060103,0601,3,Monagrillo
+060104,0601,3,Llano Bonito
+060105,0601,3,San Juan Bautista
+0602,06,2,Las Minas
+060201,0602,3,Las Minas (Cabecera)
+060202,0602,3,Chepo
+060203,0602,3,Chumical
+060204,0602,3,El Toro
+060205,0602,3,Leones
+060206,0602,3,Quebrada del Rosario
+060207,0602,3,Quebrada del Ciprian
+0603,06,2,Los Pozos
+060301,0603,3,Los Pozos (Cabecera)
+060302,0603,3,Capurí
+060303,0603,3,El Calabacito
+060304,0603,3,El Cedro
+060305,0603,3,La Arena
+060306,0603,3,La Pitaloza
+060307,0603,3,Los Cerritos
+060308,0603,3,Los Cerros de Paja
+060309,0603,3,Las Llanas
+0604,06,2,Ocú
+060401,0604,3,Ocú (Cabecera)
+060402,0604,3,Cerro Largo
+060403,0604,3,Los Llanos
+060404,0604,3,Llano Grande
+060405,0604,3,Peñas Chatas
+060406,0604,3,El Tijeras
+060407,0604,3,Menchaca
+0605,06,2,Parita
+060501,0605,3,Parita (Cabecera)
+060502,0605,3,Cabuya
+060503,0605,3,Los Castillos
+060504,0605,3,Llano de La Cruz
+060505,0605,3,Paris
+060506,0605,3,Portobelillo
+060507,0605,3,Potuga
+0606,06,2,Pesé
+060601,0606,3,Pesé (Cabecera)
+060602,0606,3,Las Cabras
+060603,0606,3,El Pájaro
+060604,0606,3,El Barrero
+060605,0606,3,El Pedregoso
+060606,0606,3,El Ciruelo
+060607,0606,3,Sabana Grande
+060608,0606,3,Rincón Hondo
+0607,06,2,Santa María
+060701,0607,3,Santa Marta (Cabecera)
+060702,0607,3,Chupampa
+060703,0607,3,El Rincón
+060704,0607,3,El Limón
+060705,0607,3,Los Canelos
+07,NULL,1,Los Santos
+0701,07,2,Guararé
+070101,0701,3,Guararé (Cabecera)
+070102,0701,3,El Espinal
+070103,0701,3,El Macano
+070104,0701,3,Guararé Arriba
+070105,0701,3,La Enea
+070106,0701,3,La Pasera
+070107,0701,3,Las Trancas
+070108,0701,3,Llano Abajo
+070109,0701,3,El Hato
+070110,0701,3,Perales
+0702,07,2,Las Tablas
+070201,0702,3,Las Tablas (Cabecera)
+070202,0702,3,Bajo Corral
+070203,0702,3,Bayano
+070204,0702,3,El Carate
+070205,0702,3,El Cocal
+070206,0702,3,El Manantial
+070207,0702,3,El Muñoz
+070208,0702,3,El Pedregoso
+070209,0702,3,La Laja
+070210,0702,3,La Miel
+070211,0702,3,La Palma
+070212,0702,3,La Tiza
+070213,0702,3,Las Palmitas
+070214,0702,3,Las Tablas Abajo
+070215,0702,3,Nuario
+070216,0702,3,Palmira
+070217,0702,3,Peña Blanca
+070218,0702,3,Rincón Hondo
+070219,0702,3,San José
+070220,0702,3,San Miguel
+070221,0702,3,Santo Domingo
+070222,0702,3,El Sesteadero
+070223,0702,3,Valle Rico
+070224,0702,3,Valleriquito
+0703,07,2,Los Santos
+070301,0703,3,La Villa de Los Santos (Cabecera)
+070302,0703,3,El Guácimo
+070303,0703,3,La Colorada
+070304,0703,3,La Espigadilla
+070305,0703,3,Las Cruces
+070306,0703,3,Las Guabas
+070307,0703,3,Los Ángeles
+070308,0703,3,Los Olivos
+070309,0703,3,Llano Largo
+070310,0703,3,Sabana Grande
+070311,0703,3,Santa Ana
+070312,0703,3,Tres Quebradas
+070313,0703,3,Agua Buena
+070314,0703,3,Villa Lourdes
+0704,07,2,Macaracas
+070401,0704,3,Macaracas (Cabecera)
+070402,0704,3,Bahía Honda
+070403,0704,3,Bajos de Guera
+070404,0704,3,El Corozal
+070405,0704,3,Chupá
+070406,0704,3,El Cedro
+070407,0704,3,Espino Amarillo
+070408,0704,3,La Mesa
+070409,0704,3,Las Palmas
+070410,0704,3,Llano de Piedra
+070411,0704,3,El Mogollón
+0705,07,2,Pedasí
+070501,0705,3,Pedasí (Cabecera)
+070502,0705,3,Los Asientos
+070503,0705,3,Mariabé
+070504,0705,3,Purio
+070505,0705,3,Oria Arriba
+0706,07,2,Pocrí
+070601,0706,3,Pocrí (Cabecera)
+070602,0706,3,El Cañafístulo
+070603,0706,3,Lajamina
+070604,0706,3,Paraíso
+070605,0706,3,Paritilla
+0707,07,2,Tonosí
+070701,0707,3,Tonosí (Cabecera)
+070702,0707,3,Altos de Guera
+070703,0707,3,Cañas
+070704,0707,3,El Bebedero
+070705,0707,3,El Cacao
+070706,0707,3,El Cortezo
+070707,0707,3,Flores
+070708,0707,3,Guánico
+070709,0707,3,La Tronosa
+070710,0707,3,Cambutal
+070711,0707,3,Isla de Cañas
+08,NULL,1,Panamá
+0801,08,2,Arraiján
+080101,0801,3,Arraiján (Cabecera)
+080102,0801,3,Juan Demóstenes Arosemena
+080103,0801,3,Nuevo Emperador
+080104,0801,3,Santa Clara
+080105,0801,3,Veracruz
+080106,0801,3,Vista Alegre
+080107,0801,3,Burunga
+080108,0801,3,Cerro Silvestre
+0802,08,2,Balboa
+080201,0802,3,San Miguel
+080202,0802,3,La Ensenada
+080203,0802,3,La Esmeralda
+080204,0802,3,La Guinea
+080205,0802,3,Pedro González
+080206,0802,3,Saboga
+0803,08,2,Capira
+080301,0803,3,Capira (Cabecera)
+080302,0803,3,Caimito
+080303,0803,3,Campana
+080304,0803,3,Cermeño
+080305,0803,3,Ciri de Los Sotos
+080306,0803,3,Ciri Grande
+080307,0803,3,El Cacao
+080308,0803,3,La Trinidad
+080309,0803,3,Las Ollas Arriba
+080310,0803,3,Lídice
+080311,0803,3,Villa Carmen
+080312,0803,3,Villa Rosario
+080313,0803,3,Santa Rosa
+0804,08,2,Chame
+080401,0804,3,Chame (Cabecera)
+080402,0804,3,Bejuco
+080403,0804,3,Buenos Aires
+080404,0804,3,Cabuya
+080405,0804,3,Chicá
+080406,0804,3,El Líbano
+080407,0804,3,Las Lajas
+080408,0804,3,Nuevo Gorgona
+080409,0804,3,Punta Chame
+080410,0804,3,Sajalices
+080411,0804,3,Sorá
+0805,08,2,Chepo
+080501,0805,3,Chepo (Cabecera)
+080502,0805,3,Cañita
+080503,0805,3,Chepillo
+080504,0805,3,El Llano
+080505,0805,3,Las Margaritas
+080506,0805,3,Santa Cruz de Chinina
+080507,0805,3,Madugandí
+080508,0805,3,Tortí
+0806,08,2,Chimán
+080601,0806,3,Chimán (Cabecera)
+080602,0806,3,Brujas
+080603,0806,3,Gonzalo Vásquez
+080604,0806,3,Pásiga
+080605,0806,3,Unión Santeña
+0807,08,2,La Chorrera
+080701,0807,3,Barrio Balboa
+080702,0807,3,Barrio Colón
+080703,0807,3,Amador
+080704,0807,3,Arosemena
+080705,0807,3,El Arado
+080706,0807,3,El Coco
+080707,0807,3,Feullet
+080708,0807,3,Guadalupe
+080709,0807,3,Herrera
+080710,0807,3,Hurtado
+080711,0807,3,Iturralde
+080712,0807,3,La Represa
+080713,0807,3,Los Díaz
+080714,0807,3,Mendoza
+080715,0807,3,Obaldía
+080716,0807,3,Playa Leona
+080717,0807,3,Puerto Caimito
+080718,0807,3,Santa Rita
+0808,08,2,Panamá
+080801,0808,3,San Felipe
+080802,0808,3,El Chorrillo
+080803,0808,3,Santa Ana
+080804,0808,3,Calidonia
+080805,0808,3,Curundú
+080806,0808,3,Bethania
+080807,0808,3,Bella Vista
+080808,0808,3,Pueblo Nuevo
+080809,0808,3,San Francisco
+080810,0808,3,Parque Lefevre
+080811,0808,3,Río Abajo
+080812,0808,3,Juan Díaz
+080813,0808,3,Pedregal
+080814,0808,3,Ancón
+080815,0808,3,Chilibre
+080816,0808,3,Las Cumbres
+080817,0808,3,Pacora
+080818,0808,3,San Martín
+080819,0808,3,Tocumen
+080820,0808,3,Las Mañanitas
+080821,0808,3,24 de Diciembre
+0809,08,2,San Carlos
+080901,0809,3,San Carlos (Cabecera)
+080902,0809,3,El Espino
+080903,0809,3,El Higo
+080904,0809,3,Guayabito
+080905,0809,3,La Ermita
+080906,0809,3,La Laguna
+080907,0809,3,Las Uvas
+080908,0809,3,Los Llanitos
+080909,0809,3,San José
+0810,08,2,San Miguelito
+081001,0810,3,Amelia Denis de Icaza
+081002,0810,3,Belisario Porras
+081003,0810,3,José Domingo Espinar
+081004,0810,3,Mateo Iturralde
+081005,0810,3,Victoriano Lorenzo
+081006,0810,3,Omar Torrijos
+081007,0810,3,Arnulfo Arias
+081008,0810,3,Belisario Frías
+081009,0810,3,Rufina Alfaro
+0811,08,2,Taboga
+081101,0811,3,Taboga (Cabecera)
+081102,0811,3,Otoque Occidente
+081103,0811,3,Otoque Oriente
+09,NULL,1,Veraguas
+0901,09,2,Atalaya
+090101,0901,3,Atalaya (Cabecera)
+090102,0901,3,El Barrito
+090103,0901,3,La Montañuela
+090104,0901,3,La Carrillo
+090105,0901,3,San Antonio
+0902,09,2,Calobre
+090201,0902,3,Calobre (Cabecera)
+090202,0902,3,Barnizal
+090203,0902,3,Chitra
+090204,0902,3,El Coclá
+090205,0902,3,El Potrero
+090206,0902,3,La Laguna
+090207,0902,3,La Raya de Calobre
+090208,0902,3,La Tetilla
+090209,0902,3,La Yeguada
+090210,0902,3,Las Guías
+090211,0902,3,Monjarás
+090212,0902,3,San José
+0903,09,2,Cañazas
+090301,0903,3,Cañazas (Cabecera)
+090302,0903,3,Cerro de Plata
+090303,0903,3,El Picador
+090304,0903,3,Los Valles
+090305,0903,3,San José
+090306,0903,3,San Marcelo
+090307,0903,3,El Aromillo
+0904,09,2,La Mesa
+090401,0904,3,La Mesa (Cabecera)
+090402,0904,3,Bisvalles
+090403,0904,3,Boró
+090404,0904,3,Llano Grande
+090405,0904,3,San Bartolo
+090406,0904,3,Los Milagros
+0905,09,2,Las Palmas
+090501,0905,3,Las Palmas (Cabecera)
+090502,0905,3,Cerro de Casa
+090503,0905,3,Corozal
+090504,0905,3,El María
+090505,0905,3,El Prado
+090506,0905,3,El Rincón
+090507,0905,3,Lolá o Altamira
+090508,0905,3,Pixvae
+090509,0905,3,Puerto Vidal
+090510,0905,3,San Martín de Porres
+090511,0905,3,Viguí
+090512,0905,3,Zapotillo
+0906,09,2,Montijo
+090601,0906,3,Montijo (Cabecera)
+090602,0906,3,Gobernadora
+090603,0906,3,La Garceana
+090604,0906,3,Leones
+090605,0906,3,Pilón
+090606,0906,3,Cébaco
+090607,0906,3,Costa Hermosa
+090608,0906,3,Unión del Norte
+0907,09,2,Río de Jesús
+090701,0907,3,Río de Jesús (Cabecera)
+090702,0907,3,Las Huacas
+090703,0907,3,Los Castillos
+090704,0907,3,Utira
+090705,0907,3,14 de Noviembre
+0908,09,2,San Francisco
+090801,0908,3,San Francisco (Cabecera)
+090802,0908,3,Corral Falso
+090803,0908,3,Los Hatillo
+090804,0908,3,Remance
+090805,0908,3,San Juan
+090806,0908,3,San José
+0909,09,2,Santa Fe
+090901,0909,3,Santa Fe
+090902,0909,3,Calovébora
+090903,0909,3,El Alto
+090904,0909,3,El Cuay
+090905,0909,3,El Pantano
+090906,0909,3,Gatún o Gatuncito
+090907,0909,3,Río Luis
+0910,09,2,Santiago
+091001,0910,3,Santiago (Cabecera)
+091002,0910,3,Canto del Llano
+091003,0910,3,La Colorada
+091004,0910,3,La Peña
+091005,0910,3,La Raya de Santa María
+091006,0910,3,Ponuga
+091007,0910,3,San Pedro del Espino
+091008,0910,3,Los Algarrobos
+091009,0910,3,Carlos Santana
+091010,0910,3,Edwin Fábrega
+091011,0910,3,San Martín de Porres
+091012,0910,3,Urracá
+0911,09,2,Soná
+091101,0911,3,Soná (Cabecera)
+091102,0911,3,Bahía Honda
+091103,0911,3,Calidonia
+091104,0911,3,Cativé
+091105,0911,3,El Marañón
+091106,0911,3,Guarumal
+091107,0911,3,La Soledad
+091108,0911,3,Quebrada de Oro
+091109,0911,3,Río Grande
+091110,0911,3,Rodeo Viejo
+0912,09,2,Mariato
+091201,0912,3,Llano de Catival
+091202,0912,3,Arena
+091203,0912,3,El Cacao
+091204,0912,3,Quebro
+091205,0912,3,Tebario
